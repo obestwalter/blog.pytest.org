@@ -26,7 +26,7 @@ Discussions:
 * what to include in pytest 3.0
 * advanced intro sessions on plugin mechanics (pluggy) and the fixture system implementation
 * tox roadmap
-* [Started to conceptualize generalize package builds and virtualenv creation](https://bitbucket.org/hpk42/tox/issues/338/generalize-package-builds-and-virtualenv)
+* [Started to conceptualize generalized package builds and virtualenv creation](https://bitbucket.org/hpk42/tox/issues/338/generalize-package-builds-and-virtualenv)
 * process for removing deprecated features
 * new 'fromcontext'/'invocation' scope for fixtures and some initial prototyping  
 * lightning talks
